@@ -15,4 +15,4 @@ A lightweight, customizable, and accessible cookie consent banner for websites. 
 
 ## Example
 - [Zyphe.com](https://www.zyphe.com)
-- [Hubstic.com] (https://www.hubstic.com)
+- [Hubstic.com](https://www.hubstic.com)
