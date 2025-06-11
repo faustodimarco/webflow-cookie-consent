@@ -14,4 +14,4 @@ A lightweight, customizable, and accessible cookie consent banner for websites. 
 - 📦 Module support: Available as UMD, ESM, and CommonJS.
 
 ## Example
-- Zyphe.com
+- [Zyphe.com](https://www.zyphe.com)
